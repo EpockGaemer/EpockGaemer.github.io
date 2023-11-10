@@ -51,16 +51,19 @@ The heart and soul of the mclaren f1, its engine is a naturally aspirated BMW-so
 **5. High Power-to-Weight Ratio**
 The combination of a powerful engine and a lightweight chassis (body frame) results in an impressive power-to-weight ratio. (higher power : lower weight = vroom vroom fast) This ratio is a key factor in the F1's ability to accelerate quickly and reach high speeds.
 
-More pictures for your enjoyment:
+## More pictures for your enjoyment:
 
 ![foo-bar-identity.jpg](https://www.topgear.com/sites/default/files/2022/08/1998-McLaren-F11281673_.jpg)
 This is the LM version (Le Mans, an endurance race) of the Mclaren f1. It has some more aero slapped on it which = more fast vroom
 
+
 ![foo-bar-identity.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8d/1995McLaren-BMWF1GTR.jpg)
 This is the GTR version of the Mclaren f1. It has even MORE aero slapped on it and an EPIC LIVERY 💕💕💕💕 = even faster vroom
 
+
 ![foo-bar-identity.jpg](https://media.goodingco.com/image/upload/c_fill,g_auto,q_88,w_1800/v1/Prod/Archives/AZ14%20%E2%80%94%20Scottsdale%20Auctions%202014/137._1997_McLaren_F1_GTR_Long_Tail-007_zg3kqa)
 This is the LONGTAIL version of the Mclaren f1. It is scary. Yeah.
+
 
 Want to learn more? Find out more at https://en.wikipedia.org/wiki/McLaren_F1.
 
