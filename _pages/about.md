@@ -56,7 +56,7 @@ More pictures for your enjoyment:
 ![foo-bar-identity.jpg](https://www.topgear.com/sites/default/files/2022/08/1998-McLaren-F11281673_.jpg)
 This is the LM version (Le Mans, an endurance race) of the Mclaren f1. It has some more aero slapped on it which = more fast vroom
 
-![foo-bar-identity.jpg](https://www.motortrend.com/uploads/sites/11/2012/04/ex-GTC-Gulf-Team-Davidoff-1997-McLaren-F1-GTR-Longtail-FIA-GT-Endurance-Racing-Coupe-front-right-11.jpg)
+![foo-bar-identity.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8d/1995McLaren-BMWF1GTR.jpg)
 This is the GTR version of the Mclaren f1. It has even MORE aero slapped on it and an EPIC LIVERY 💕💕💕💕 = even faster vroom
 
 ![foo-bar-identity.jpg](https://media.goodingco.com/image/upload/c_fill,g_auto,q_88,w_1800/v1/Prod/Archives/AZ14%20%E2%80%94%20Scottsdale%20Auctions%202014/137._1997_McLaren_F1_GTR_Long_Tail-007_zg3kqa)
