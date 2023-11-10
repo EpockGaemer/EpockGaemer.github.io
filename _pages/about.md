@@ -1,33 +1,31 @@
 ---
 permalink: /
-excerpt: "About me"
+excerpt: "About the Mclaren F1"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
+# Meet The Mclaren F1!
 
-Hello, young tech enthusiasts! 👋
+Hello, fellow car enthusiast (or some random person passing by somehow)! 👋
 
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
+![foo-bar-identity.jpg](https://cdn.motor1.com/images/mgl/zZ9qE/s3/mclaren-f1-chassis-no-63.jpg)
 
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
+I'm thrilled to introduce you to one of the most legendary cars of all time, the one and only mclaren f1!
 
-## About Mr. Daviddhc20120601
+## General facts
 
-👩‍🏫 **Name:** Mr. Daviddhc20120601
+**Company:** Mclaren Automotive (yeah sherlock)
 
-🏫 **Grade:** Sixth Grade
+**Year:** 1989 (VERI OLD KAR)
 
-🖥️ **Subject:** Computer Science
+**Designer:** Gordon Murray
 
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
+**Top Speed:** 240.1 mph - it broke the world record!!
 
-## What to Expect
+One of the most influential cars of the century, the Mclaren F1 doesn't get its mindblowingly high top speed from nothing - it gets its top speed from intricate engineering and its fearless and innovative creator: Gordon Murray.
 
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
-
-So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
+Want to learn more?
 
