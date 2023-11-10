@@ -63,5 +63,6 @@ This is the GTR version of the Mclaren f1. It has even MORE aero slapped on it a
 This is the LONGTAIL version of the Mclaren f1. It is scary. Yeah.
 
 Want to learn more? Find out more at https://en.wikipedia.org/wiki/McLaren_F1.
-Have a good day if you are still reading lol
+
+have a good day if you are still reading lol
 
