@@ -12,7 +12,7 @@ redirect_from:
 Hello, fellow car enthusiast (or some random person passing by somehow)! 👋
 
 ![foo-bar-identity.jpg](https://s1.cdn.autoevolution.com/images/news/gallery/the-mclaren-f1-s-mighty-s70-2-v12-was-bmw-ms-greatest-gift-to-the-automotive-world_2.jpg)
-![foo-bar-identity.jpg](https://s1.cdn.autoevolution.com/images/news/gallery/the-mclaren-f1-s-mighty-s70-2-v12-was-bmw-ms-greatest-gift-to-the-automotive-world_3.jpg))
+![foo-bar-identity.jpg](https://s1.cdn.autoevolution.com/images/news/gallery/the-mclaren-f1-s-mighty-s70-2-v12-was-bmw-ms-greatest-gift-to-the-automotive-world_3.jpg)
 
 I'm thrilled to introduce you to one of the most legendary cars of all time, the one and only mclaren f1!
 
@@ -30,6 +30,8 @@ I'm thrilled to introduce you to one of the most legendary cars of all time, the
 
 One of the most influential cars of the century, the Mclaren F1 doesn't get its mindblowingly high top speed from nothing - it gets its top speed from intricate engineering fearless innovations.
 What is this "fearless engineering" you say?
+
+## Features
 
 **1. Lightweight Construction**
 The chassis of the F1 (body frame) is crafted from carbon fiber, an advanced and lightweight material that ensures structural rigidity while keeping the overall weight of the car low. The emphasis on weight reduction improves acceleration, top speed, and overall performance.
